@@ -11,6 +11,7 @@ using Microsoft.Win32;
 
 public partial class _Default : System.Web.UI.Page
 {
+   
     protected void Page_Load(object sender, EventArgs e)
     {
         // Get environment variables and dump them
